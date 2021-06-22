@@ -1,0 +1,62 @@
+Por Favor,Leia a Licença.é curta e importante de se ler,você pode lê-la a qualquer momento na pasta do jogo.
+
+
+Esse Jogo foi produzido com a engine Game Maker:Studio,Game Maker é uma propriedade intelectual da YoYo Games Ltd,Reino Unido.
+
+Este Acordo de Licença de Utilizador se aplica a todos que utilizarão deste aplicativo.
+
+
+#Você pode:-------------------------------------------------------------------
+Instalar e usar este aplicativo para uso pessoal ou comercial [desde que você tenha pago qualquer taxa de licença]
+
+
+#Você não deve:---------------------------------------------------------------
+
+
+usar, copiar, transferir, distribuir modificar, adaptar, fundir, traduzir, descompilar, desmontar ou fazer engenharia reversa do aplicativo ou parte dele,
+exceto quando expressamente permitido por esta Licença;
+remover, modificar ou adulterar qualquer direito autoral, marca ou outro aviso.não deve usar o aplicativo para quaisquer fins ilegais, ilícitos ou imorais.
+
+
+#Prazo-------------------------------------------------------------------------
+
+Esta licença termina automaticamente se você violar qualquer um dos termos.
+Quando esta Licença termina você deve parar de utilizar o aplicativo e destruir e apagar quaisquer cópias que você tem.
+
+
+#Responsabilidade--------------------------------------------------------------
+
+
+A YoYo Games não se envolveu no Projeto e Desenvolvimento do Jogo,exceto que foi utilizada a engine Game Maker.YoYo Games só garante que isso funcionará
+satisfatoriamente se utilizados de forma adequada e no sistema operacional correto.A YoYo Games não garante que o funcionamento do jogo será ininterrupto ou livre de erros ou
+que os erros podem ser corrigidos. De instalar e usar o aplicativo em seu próprio risco e em nenhum caso a YoYo Games é responsabilizada por você por qualquer perda ou dano
+de qualquer natureza (exceto danos pessoais ou morte resultantes de negligência YoYo Games '),incluindo lucros cessantes ou outros danos conseqüentes que possam surgir a partir
+do uso ou da incapacidade de usar o aplicativo ou de erros ou deficiências no que se causados por negligência ou de outra forma.Até ao limite máximo permitido por lei, YoYo Games
+Limited exclui a responsabilidade por todas as garantias, condições e outros termos que, mas para este aviso tenha efeito.
+
+
+#Geral--------------------------------------------------------------------------
+
+
+*Todos os direitos autorais e outros direitos de propriedade intelectual GameMaker e partes dele incluídas no pedido pertencem e colete em YoYo Games. Todos os direitos de YoYo Games
+ são aqui declarados e reservados.
+
+*Todas as marcas comerciais são propriedade dos seus respectivos proprietários e YoYo Games não faz nenhuma garantia ou representação em relação a e não tem nenhuma responsabilidade e
+ exclui qualquer responsabilidade por qualquer marca ou conteúdo de terceiros.
+
+*Os direitos concedidos nesta licença não são exclusivos.
+
+*O Acordo de Licença não afeta nenhum dos Direitos do Consumidor.
+
+*Esta Licença é regido pela Lei Inglês e as partes submetem-se à jurisdição exclusiva dos tribunais ingleses.
+
+*Se você tiver um problema com este jogo entre em contato com a Frontier Z,e não a YoYo Games.
+
+
+
+
+O Instalador não possuí tradução,então para ficar informado,"Start Menu Shortcuts" significa criar um atalho
+e "Desktop Shortcuts",atalho na área de trabalho.
+
+Clique em "Aceitar" e aceita estes termos para instalar e utilizar esta aplicação. Se você não os aceitar termos que você não pode continuar com a instalação e você não deve instalar,
+usar ou executar o software neste ou em qualquer outro computador.
